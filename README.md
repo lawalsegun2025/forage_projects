@@ -4,7 +4,7 @@
 
 ## BCG Data Science  & Analytics (customer churn prediction)
 
-This project involves creating a predictive classification model for a client to determinwd which customers are likely to churn using customer data set and pricing data set.
+This project involves creating a predictive classification model for a client to determine which customers are likely to churn using customer data set and pricing data set.
 
 ---
 ## Cognizant AI
