@@ -2,10 +2,10 @@
 
 This project workflow involved 4 steps;
 
-> Business Understanding and Hypothesis
-> Exploratory Data Analysis
-> Feature Engineering and Modelling
-> Findings and Recommendation
+> - Business Understanding and Hypothesis
+>  - Exploratory Data Analysis
+>  - Feature Engineering and Modelling
+>  - Findings and Recommendation
 
 ---
 
