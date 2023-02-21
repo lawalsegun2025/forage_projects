@@ -2,4 +2,4 @@
 
 ---
 
-## 1 BCG Data Science  & Analytics (customer churn prediction)
+## BCG Data Science  & Analytics (customer churn prediction)
