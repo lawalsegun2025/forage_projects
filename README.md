@@ -20,7 +20,9 @@ This project involves 5 tasks;
 
 ### 1. Exploratory Data Analysys;
 - Exploring customer data to identify next steps.
+
 skills learnt includes; `Data Analysis`, `Python`, `Data Visualization`
+
 
 ### 2. Data modeling
 - Understanding relational data and framing a problem statement.
