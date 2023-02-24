@@ -18,15 +18,15 @@ The workflow involved 4 steps;
 
 This project involves 5 processes;
 
-1. Exploratory Data Analysys;
+### 1. Exploratory Data Analysys;
 - Exploring customer data to identify next steps.
-2. Data modeling
+### 2. Data modeling
 - Understanding relational data and framing a problem statement.
-3. Model Building and INterpretation
+### 3. Model Building and INterpretation
 - Building a predictive model and interpreting the results back to the business.
-4. Machine Leratning Production;
+### 4. Machine Leratning Production;
 - Developing Machine Leaarning algorithms for production.
-5. Quality Assurance
+### 5. Quality Assurance
 - Evaluating the production machine learning model to ensure quality results.
 
 
