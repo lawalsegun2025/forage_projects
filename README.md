@@ -19,7 +19,7 @@ The workflow involved 4 steps;
 This project involves 5 tasks;
 
 ### 1. Exploratory Data Analysys;
-- Exploring customer data to identify next steps.
+Exploring customer data to identify next steps.
 
 skills learnt includes; `Data Analysis`, `Python`, `Data Visualization`
 
