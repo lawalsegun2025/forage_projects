@@ -8,7 +8,7 @@ This project involves creating a predictive classification model for a client to
 
 The workflow involved 4 steps;
 
-> - Business Understanding and Hypothesis
+>  - Business Understanding and Hypothesis
 >  - Exploratory Data Analysis
 >  - Feature Engineering and Modelling
 >  - Findings and Recommendation
@@ -19,19 +19,18 @@ The workflow involved 4 steps;
 This project involves 5 tasks;
 
 ### 1. Exploratory Data Analysys;
-Exploring customer data to identify next steps.
-
-skills learnt includes; `Data Analysis`, `Python`, `Data Visualization`
+> - Exploring customer data to identify next steps.
+> - Skills learnt includes; `Data Analysis` `Python` `Data Visualization`
 
 
 ### 2. Data modeling
-- Understanding relational data and framing a problem statement.
+> - Understanding relational data and framing a problem statement.
 
 ### 3. Model Building and INterpretation
-- Building a predictive model and interpreting the results back to the business.
+> - Building a predictive model and interpreting the results back to the business.
 
 ### 4. Machine Leratning Production;
-- Developing Machine Leaarning algorithms for production.
+> - Developing Machine Leaarning algorithms for production.
 
 ### 5. Quality Assurance
 - Evaluating the production machine learning model to ensure quality results.
