@@ -16,16 +16,21 @@ The workflow involved 4 steps;
 ---
 ## Cognizant AI
 
-This project involves 5 processes;
+This project involves 5 tasks;
 
 ### 1. Exploratory Data Analysys;
 - Exploring customer data to identify next steps.
+skills learnt includes; `Data Analysis`, `Python`, `Data Visualization`
+
 ### 2. Data modeling
 - Understanding relational data and framing a problem statement.
+
 ### 3. Model Building and INterpretation
 - Building a predictive model and interpreting the results back to the business.
+
 ### 4. Machine Leratning Production;
 - Developing Machine Leaarning algorithms for production.
+
 ### 5. Quality Assurance
 - Evaluating the production machine learning model to ensure quality results.
 
