@@ -25,7 +25,7 @@ This project involves 5 tasks;
 
 ### 2. Data modeling
 > - Understanding relational data and framing a problem statement.
-> > - Skills learnt; `Datt Modeling` `Problem Statement`
+> - Skills learnt; `Datt Modeling` `Problem Statement`
 
 ### 3. Model Building and INterpretation
 > - Building a predictive model and interpreting the results back to the business.
@@ -33,6 +33,7 @@ This project involves 5 tasks;
 
 ### 4. Machine Leratning Production;
 > - Developing Machine Leaarning algorithms for production.
+> - Skills learnt; `Python` `Machine Learning Engineering` `Development`
 
 ### 5. Quality Assurance
 - Evaluating the production machine learning model to ensure quality results.
