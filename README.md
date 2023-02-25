@@ -12,6 +12,12 @@ This workflow involved 4 tasks;
 > - Understanding the business contex and problem statement.
 > - Skills gained; `Business Understanding` `Hypothesis Framing` `Communication`
 
+### 2. Exploratory Data Analysis
+> - Understandibg the business through data
+> - Skills gained; `Programming` `Exploratory Data Analysis`
+
+### 3.
+
 ---
 ## Cognizant Artificial Intelligence
 
@@ -20,7 +26,6 @@ This project involves 5 tasks;
 ### 1. Exploratory Data Analysys
 > - Exploring customer data to identify next steps.
 > - Skills learnt; `Data Analysis` `Python` `Data Visualization`
-
 
 ### 2. Data Modeling
 > - Understanding relational data and framing a problem statement.
