@@ -16,8 +16,10 @@ This workflow involved 4 tasks;
 > - Understandibg the business through data
 > - Skills gained; `Programming` `Exploratory Data Analysis`
 
-### 3.
-
+### 3. Feature Engineering & Modeling
+> - Uncovering signals within the data. 
+> - Predicting customer churn probability and evaluating model performance.
+> - Skills gained; `Creativity` `Mathematical Modeling` `Model Evaluation`
 ---
 ## Cognizant Artificial Intelligence
 
