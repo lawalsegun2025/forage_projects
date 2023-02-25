@@ -9,13 +9,15 @@ This project involves creating a predictive classification model for a client to
 This workflow involved 4 tasks;
 
 ### 1. Business Understanding & Hypothesis Framing
+> - Understanding the business contex and problem statement.
+> - Skills gained; `Business Understanding` `Hypothesis Framing` `Communication`
 
 ---
 ## Cognizant Artificial Intelligence
 
 This project involves 5 tasks;
 
-### 1. Exploratory Data Analysys;
+### 1. Exploratory Data Analysys
 > - Exploring customer data to identify next steps.
 > - Skills learnt; `Data Analysis` `Python` `Data Visualization`
 
