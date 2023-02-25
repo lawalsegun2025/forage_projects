@@ -22,7 +22,8 @@ This workflow involved 4 tasks;
 > - Skills gained; `Creativity` `Mathematical Modeling` `Model Evaluation`
 
 ### 4. Findings & Recommendations
-
+> - Presenting your results and giving recommended actions to the client
+> - 
 
 ---
 ## Cognizant Artificial Intelligence
