@@ -20,6 +20,10 @@ This workflow involved 4 tasks;
 > - Uncovering signals within the data. 
 > - Predicting customer churn probability and evaluating model performance.
 > - Skills gained; `Creativity` `Mathematical Modeling` `Model Evaluation`
+
+### 4. Findings & Recommendations
+
+
 ---
 ## Cognizant Artificial Intelligence
 
