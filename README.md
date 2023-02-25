@@ -20,7 +20,7 @@ This project involves 5 tasks;
 
 ### 1. Exploratory Data Analysys;
 > - Exploring customer data to identify next steps.
-> - Skills learnt includes; `Data Analysis` `Python` `Data Visualization`
+> - Skills learnt; `Data Analysis` `Python` `Data Visualization`
 
 
 ### 2. Data modeling
@@ -28,6 +28,7 @@ This project involves 5 tasks;
 
 ### 3. Model Building and INterpretation
 > - Building a predictive model and interpreting the results back to the business.
+> - Skills learnt; `Datt Modeling` `Problem Statement`
 
 ### 4. Machine Leratning Production;
 > - Developing Machine Leaarning algorithms for production.
