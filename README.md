@@ -36,6 +36,7 @@ This project involves 5 tasks;
 > - Skills learnt; `Python` `Machine Learning Engineering` `Development`
 
 ### 5. Quality Assurance
-- Evaluating the production machine learning model to ensure quality results.
+> - Evaluating the production machine learning model to ensure quality results.
+> - Skills Learnt; `Quality Assurance` `Evaluation`
 
 
