@@ -14,7 +14,7 @@ The workflow involved 4 steps;
 >  - Findings and Recommendation
 
 ---
-## Cognizant AI
+## Cognizant Artificial Intelligence
 
 This project involves 5 tasks;
 
