@@ -6,12 +6,9 @@
 
 This project involves creating a predictive classification model for a client to determine which customers are likely to churn using customer data set and pricing data set.
 
-The workflow involved 4 steps;
+This workflow involved 4 tasks;
 
->  - Business Understanding and Hypothesis
->  - Exploratory Data Analysis
->  - Feature Engineering and Modelling
->  - Findings and Recommendation
+### 1. Business Understanding & Hypothesis Framing
 
 ---
 ## Cognizant Artificial Intelligence
@@ -23,7 +20,7 @@ This project involves 5 tasks;
 > - Skills learnt; `Data Analysis` `Python` `Data Visualization`
 
 
-### 2. Data modeling
+### 2. Data Modeling
 > - Understanding relational data and framing a problem statement.
 > - Skills learnt; `Datt Modeling` `Problem Statement`
 
@@ -38,5 +35,7 @@ This project involves 5 tasks;
 ### 5. Quality Assurance
 > - Evaluating the production machine learning model to ensure quality results.
 > - Skills Learnt; `Quality Assurance` `Evaluation`
+
+---
 
 
