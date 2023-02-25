@@ -23,7 +23,7 @@ This workflow involved 4 tasks;
 
 ### 4. Findings & Recommendations
 > - Presenting your results and giving recommended actions to the client
-> - 
+> - Skills gained; `Synthesis` `Client Communication` `Model Interpretation`
 
 ---
 ## Cognizant Artificial Intelligence
