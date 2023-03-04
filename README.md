@@ -28,7 +28,7 @@ This workflow involved 4 tasks;
 ---
 ## Cognizant Artificial Intelligence (Predicting Stock levels of product)
 
-This project was aimed at accurately predicting the stock levels of products
+This project was aimed at accurately predicting the stock levels of products based on slease data and sensory data on an hourly basis in order to enable the grocery store more intelligently procure from suppliers.
 
 This project involves 5 tasks;
 
