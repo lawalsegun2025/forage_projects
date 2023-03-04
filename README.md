@@ -26,7 +26,7 @@ This workflow involved 4 tasks;
 > - Skills gained; `Synthesis` `Client Communication` `Model Interpretation`
 
 ---
-## Cognizant Artificial Intelligence
+## Cognizant Artificial Intelligence (Predicting Stock levels of product)
 
 This project involves 5 tasks;
 
