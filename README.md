@@ -28,6 +28,8 @@ This workflow involved 4 tasks;
 ---
 ## Cognizant Artificial Intelligence (Predicting Stock levels of product)
 
+This project was aimed at accurately predicting the stock levels of products
+
 This project involves 5 tasks;
 
 ### 1. Exploratory Data Analysys
