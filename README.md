@@ -40,11 +40,11 @@ This project involves 5 tasks;
 > - Understanding relational data and framing a problem statement.
 > - Skills learnt; `Datt Modeling` `Problem Statement`
 
-### 3. Model Building and INterpretation
+### 3. Model Building and Interpretation
 > - Building a predictive model and interpreting the results back to the business.
 > - Skills learnt; `Machie Learning` `Model Interpretation` `Communication`
 
-### 4. Machine Leratning Production;
+### 4. Machine Learning Production;
 > - Developing Machine Leaarning algorithms for production.
 > - Skills learnt; `Python` `Machine Learning Engineering` `Development`
 
