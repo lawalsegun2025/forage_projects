@@ -79,3 +79,64 @@ def create_target_and_predictors(
     y = data[target]
     return X, y
 
+# Train algorithm
+def train_algorithm_with_cross_validation(
+        X: pd.DataFrame = None,
+        y: pd.Series = None 
+):
+    """
+    This function takes the predictor and target variables and 
+    train a Random Forest Regressor model across k\K folds. Using 
+    cross-validation, performance metrics will be output for each 
+    fold during training.
+
+    :param      X: pd.DataFrame, predictor variables
+    :param      y: pd.Series, target variable
+
+    :return
+    """
+
+    # Create a list that will store the accuracies of each fold
+    accuracy = []
+
+    # Enter a loop to run K folds of cross-validation
+    for fold in range(0, K):
+
+        # Instantiate algorithm and scaler
+        model = RandimForestRegressor()
+        scaler = StandardScaler()
+
+        # Create training and test samples
+        X_train, X_test, y_train, y_test - train_test_split(X,
+                                                            y,
+                                                            test_size = split, 
+                                                            random_state=42)
+        
+        # Scale X data, we scale the data because it helps the algorithm to converge
+        # and helps the algorithm to not be greedy with large values
+
+        scaler.fit(X_train)
+        X_train = scaler.transform(X_train)
+        X_test = scaler.transform(X_test)
+
+        # Train model
+        trained_model = model.fit(X_train, y_train)
+
+        # Generate predictions on test sample
+        y_pred = trained_model.predict(X_test)
+
+        # Compute accuracy, using mean absolute error
+        mae = mean_absolute_error(y_true=y_test, y_pred=y_pred)
+        accuracy.append(mae)
+        print(f"Fold {fold + 1}: MAE = {mae:.3f}")
+
+    # Finish by computing the average MAE across all folds
+    print(f"Average MAE: {(sum(accuracy) / len(accuracy)):.2f}")
+
+
+
+
+
+
+
+
