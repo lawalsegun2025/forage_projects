@@ -37,4 +37,19 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.preprocessing import StandardScaler
 
 
+# Load data
+def load_data(path: str = "/path/to/csv/"):
+    """
+    This function takes a path string to a CSV file and loads it into
+    a pandas DataFrame.
+
+    : param     path (optional): str, relative path of the CSV file
+
+    : return    df: pd.DataFrame           
+    """
+
+    df = pd.read_cdv(f"{path}")
+    df.drop(columns=["Unnamed: 0"], inplace=True, error='ignore')
+    return df
+
 
