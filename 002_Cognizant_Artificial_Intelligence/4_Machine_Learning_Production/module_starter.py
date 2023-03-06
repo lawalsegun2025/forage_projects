@@ -26,3 +26,15 @@
 # You may want to include a final function that ties everything together, to allow
 # the entire pipeline of loading the data and training the algorithm to be run all
 # at once
+
+
+# Import all required libraries
+
+import pandas as pd
+from sklearn.ensemble import RandimForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error
+from sklearn.preprocessing import StandardScaler
+
+
+
