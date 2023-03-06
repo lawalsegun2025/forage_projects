@@ -36,6 +36,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error
 from sklearn.preprocessing import StandardScaler
 
+# variables for K-fold and split
+K = 10
+split = 0.75
+
 
 # Load data
 def load_data(path: str = "/path/to/csv/"):
@@ -109,7 +113,7 @@ def train_algorithm_with_cross_validation(
         # Create training and test samples
         X_train, X_test, y_train, y_test - train_test_split(X,
                                                             y,
-                                                            test_size = split, 
+                                                            train_size = split, 
                                                             random_state=42)
         
         # Scale X data, we scale the data because it helps the algorithm to converge
