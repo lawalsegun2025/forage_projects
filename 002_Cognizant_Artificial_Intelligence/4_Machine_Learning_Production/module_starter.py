@@ -19,6 +19,13 @@ from sklearn.preprocessing import StandardScaler
 # You should give global constants a name and ensure that they are in all upper
 # case, such as: UPPER_CASE
 
+# K is used to define the number of folds that will be used for cross-validation
+K = 10
+
+# SPLIT defines the % of data that will be used in the training  sample
+# 1 -  SPLIT = % used for testing
+SPLIT =0.75
+
 # --- 3) ALGORITHM CODE
 # Next, we should write our code that will be executed when a model needs to be 
 # trained. There are many ways to structure this code and it is your choice 
