@@ -33,21 +33,6 @@ SPLIT =0.75
 # the code down into independent functions, which is 1 option. 
 # Include your algorithm code in this section below:
  
-# --- 4) MAIN FUNCTION
-# Your algorithm code should contain modular code that can be run independently.
-# You may want to include a final function that ties everything together, to allow
-# the entire pipeline of loading the data and training the algorithm to be run all
-# at once
-
-
-
-
-
-# variables for K-fold and split
-K = 10
-split = 0.75
-
-
 # Load data
 def load_data(path: str = "/path/to/csv/"):
     """
@@ -144,6 +129,33 @@ def train_algorithm_with_cross_validation(
     # Finish by computing the average MAE across all folds
     print(f"Average MAE: {(sum(accuracy) / len(accuracy)):.2f}")
 
+
+    # --- 4) MAIN FUNCTION
+# Your algorithm code should contain modular code that can be run independently.
+# You may want to include a final function that ties everything together, to allow
+# the entire pipeline of loading the data and training the algorithm to be run all
+# at once
+
+# Execute training pipeline
+
+def run():
+    """
+    This function executes the training pipeline of loading the prepared
+    data frim a CSV file and training the machine learning model
+
+    :param
+
+    :return
+    """
+
+    # Load the data first
+    df = load_data()
+
+    # Now split the data into predictor and target variables
+    X, y = create_target_and_predictors(data=df)
+
+    # Finally, train the machine learning model
+    train_algorithm_with_cross_validation(X=X, y+y)
 
 
 
