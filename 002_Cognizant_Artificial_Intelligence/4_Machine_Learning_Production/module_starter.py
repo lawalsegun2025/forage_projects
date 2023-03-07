@@ -7,6 +7,11 @@
 # The first thing you should always do in a Python file is to import any
 # packages that you will need within the file. This should always go at the top
 # of the file
+import pandas as pd
+from sklearn.ensemble import RandimForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error
+from sklearn.preprocessing import StandardScaler
 
 # --- 2) DEFINE GLOBAL CONSTANTS
 # Constants are variables that should remain the same througout the entire running
@@ -28,13 +33,8 @@
 # at once
 
 
-# Import all required libraries
 
-import pandas as pd
-from sklearn.ensemble import RandimForestRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_absolute_error
-from sklearn.preprocessing import StandardScaler
+
 
 # variables for K-fold and split
 K = 10
