@@ -58,4 +58,6 @@ This project involves 5 tasks;
 Building a predictive model to predict customoer buying behaviour.
 
 ### 1. Web scraping to gain company insights.
+> - Scrape and analyse customer review data to uncover findings for British Airways.
+> - Skills learnt; `Web Scraping` `Data Manipulation` `Power Point` `Python`
 
