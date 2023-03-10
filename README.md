@@ -55,3 +55,7 @@ This project involves 5 tasks;
 ---
 ## British Airways Data Science (Predicting customer buying behaviour)
 
+Building a predictive model to predict customoer buying behaviour.
+
+### 1. Web scraping to gain company insights.
+
